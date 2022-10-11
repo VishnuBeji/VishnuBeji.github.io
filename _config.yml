@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishnu B' personal page"
+title                    : "Vishnu's personal page"
 title_separator          : "-"
 name                     : &name "Vishnu Beji"
 description              : &description "Member of Technical Staff at Oracle"
