@@ -1,14 +1,16 @@
 ---
-title: "Project 1"
-collection: teaching
+title: "Tandem Queue Decomposition"
+collection: projects
 type: "Undergraduate course"
-permalink: /projects/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /projects/project-1
+venue: "Indian Institute of Technology Madras, Electrical Engineering"
+date: 2021-08-01
+location: "Chennai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Developed a novel network flow algorithm to optimize network traffic and ensure stability in a QKD encrypted generalized network (handling unicast, multicast and broadcast) based on the concept of Universal Max-Weight. 
+Formulated a comprehensive mathematical proof of stability using Lyapunov Drift minimisation. Produced better delay performance as compared to the celebrated Back Pressure algorithm based QKD network and eliminated suboptimality arising from cycle hopping.
+
 
 Heading 1
 ======
