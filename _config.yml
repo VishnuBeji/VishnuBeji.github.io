@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vishnu Beji"
   avatar           : "profile1.png"
-  bio              : "IIT Madras Alumni"
+  bio              : "IIT Madras Alumnus"
   location         : "Bangalore"
   employer         : "Oracle"
   pubmed           : 
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true
