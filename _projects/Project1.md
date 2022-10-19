@@ -1,6 +1,9 @@
 ---
 title: "Tandem Queue Decomposition"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/QNet.png'>"
+collection: projects
+type: "Undergraduate Thesis"
+permalink: /projects/QN
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/QNet.png' width="200">"
 ---
 
 Developed a novel network flow algorithm to optimize network traffic and ensure stability in a QKD encrypted generalized network (handling unicast, multicast and broadcast) based on the concept of Universal Max-Weight. 
