@@ -4,11 +4,13 @@ collection: projects
 type: "Research Internship"
 permalink: /projects/DR
 venue: "IIM Bangalore"
-date: 2015-01-01
+date: 2018-12-25
 location: "Bangalore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<img src="https://github.com/VishnuBeji/Diabetic-Retinopathy/blob/main/images/Fundusimg.png" width="800px"/>
+
+Diabetic retinopathy is the leading cause of blindness in the working-age population of the developed world. It is estimated to affect over 93 million people. Diabetic Retinopathy classification is a challenging problem where we are required to classify the fundus image of the retina into either of the 5 grades of Diabetic Retinopathy. 
 
 Heading 1
 ======
