@@ -2,6 +2,8 @@
 title: "Tandem Queue Decomposition"
 collection: projects
 type: "Undergraduate Thesis"
+venue: "IIT madras"
+date: 2021-08-01
 permalink: /projects/QN
 excerpt: "<img src='/images/QNet.png' width='500'>"
 ---

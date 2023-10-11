@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/QNet.png' width='200'>"
+title: "Awards"
+excerpt: "1) Best Poster Award - JTG/IEEE ITSoc 2022, IIT Mandi for poster on Tandem Queue Decomposition: A Throughput Optimal Routing Policy for Quantum Key Distribution Networks [poster] (2022)
+
+2) Secured All India Rank of 331 in JEE Advanced 2016 and an All India Rank of 434 in JEE Mains 2016 from about 1.5 million applicants, being in the top 0.02%. (2016)
+
+3) Qualified and placed among the top 0.1% of students in Regional Maths Olympiad (RMO) and National Standard Examination in Chemistry (NSEC); thereby selected for Indian National Maths and Chemistry Olympiads (2015)
+
+4) Awarded National Talent Search Examination (NTSE) Scholarship by NCERT (New Delhi). (2012) 
+
+5) Two time awardee of Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship (Young Scientist Fellowship) by the Department of Science & Technology, Govt. of India and administered by IISc, Bangalore.(2015, 2016)
+
+6) Awarded Prime Minister’s Scholarship (PMSS) by the Ministry of Defense for academic excellence.(2019)
+
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
