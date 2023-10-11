@@ -10,7 +10,7 @@ excerpt: "1) Best Poster Award - JTG/IEEE ITSoc 2022, IIT Mandi for poster on Ta
 
 5) Two time awardee of Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship (Young Scientist Fellowship) by the Department of Science & Technology, Govt. of India and administered by IISc, Bangalore.(2015, 2016)
 
-6) Awarded Prime Minister’s Scholarship (PMSS) by the Ministry of Defense for academic excellence.(2019)
+6) Awarded Prime Minister’s Scholarship (PMSS) by the Ministry of Defense for academic excellence.(2019)"
 
 collection: portfolio
 ---
