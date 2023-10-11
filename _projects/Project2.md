@@ -6,7 +6,7 @@ permalink: /projects/DR
 venue: "IIM Bangalore"
 date: 2018-12-25
 location: "Bangalore, India"
-excerpt: "Fundus images of Diabetic Retinopathy grades <br/><img src='/images/Fundusimg.png' width='250'>"
+excerpt: "<img src='/images/Fundusimg.png' width='500'>"
 ---
 
 ## Diabetic-Retinopathy

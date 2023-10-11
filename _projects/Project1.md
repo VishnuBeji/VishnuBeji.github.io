@@ -3,7 +3,7 @@ title: "Tandem Queue Decomposition"
 collection: projects
 type: "Undergraduate Thesis"
 permalink: /projects/QN
-excerpt: "Tandem Queuing Process<br/><img src='/images/QNet.png' width='250'>"
+excerpt: "<img src='/images/QNet.png' width='500'>"
 ---
 
 # Quantum-Network

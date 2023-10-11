@@ -6,7 +6,7 @@ permalink: /projects/DR
 venue: "IIT madras"
 date: 2019-11-01
 location: "Chennai, India"
-excerpt: "<br/><img src='/images/Alarm.png' width='250'>"
+excerpt: "<img src='/images/Alarm.png' width='500'>"
 ---
 # Bayesian Network Structure Learning with Quantum Annealing on ALARM Dataset
 
