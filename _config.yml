@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vishnu's personal page"
 title_separator          : "-"
 name                     : &name "Vishnu Beji"
-description              : &description "Member of Technical Staff at Oracle"
+description              : &description "MS CS student at NYU"
 url                      : https://VishnuBeji.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VishnuBeji.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Vishnu Beji"
   avatar           : "profile1.png"
-  bio              : "IIT Madras Alumnus"
-  location         : "Bangalore"
+  bio              : "MS CS @ NYU"
+  location         : "New York"
   employer         : "Oracle"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=EiKPBnIAAAAJ&hl=en"
