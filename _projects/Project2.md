@@ -1,24 +1,29 @@
 ---
-title: "Diabetic Retinopathy: Classification and Semantic Segmentation"
+title: "Bayesian Network Structure Learning with Quantum Annealing"
 collection: projects
-type: "Research Internship"
+type: "Independent Research"
 permalink: /projects/DR
-venue: "IIM Bangalore"
-date: 2018-12-25
-location: "Bangalore, India"
-excerpt: "<img src='/images/Fundusimg.png' width='500'>"
+venue: "IIT madras"
+date: 2019-11-01
+location: "Chennai, India"
+excerpt: "<img src='/images/Alarm.png' width='500'>"
 ---
 
-Diabetic retinopathy is the leading cause of blindness in the working-age population of the developed world. It is estimated to affect over 93 million people. Diabetic Retinopathy classification is a challenging problem where we are required to classify the fundus image of the retina into either of the 5 grades of Diabetic Retinopathy.
+## Introduction
+In the paper [O'Gorman et al.](https://doi.org/10.1140/epjst/e2015-02349-9), we are introduced to the concept of Bayesian Network structure learning with  encoding into a **Quadratic Unconstrained Binary Optimisation** (**QUBO**) problem. 
 
-This can be massively improved with 
-* high-resolution images
-* better data sampling
-* ensuring there is no leaking between training and validation sets, ```sample(replace = True)``` is real dangerous
-* better target variable (age) normalization
-* pretrained models
-* attention/related techniques to focus on areas.
+This is an implementation of the same, with results upon ALARM dataset.
 
 
-<img src='/images/Fundusimg.png'>
+Quantum annealing is a method for finding the minimum value of a given objective function. It is the quantum analogue of classical simulated annealing,
+where the computation is driven by quantum, rather than thermal fluctuations. We construct an instance of QUBO whose solution is the score-maximizing DAG; there is a simple transformation between a classically defined QUBO instance and a diagonal quantum 2-local Hamiltonian consisting of only Pauli Z and ZZ terms. 
+
+## Problems Used
+Patient monitoring system from ALARM dataset:
+
+<img src='/images/Alarm.png'>
+
+The **QUBO** problem is solved using **Quantum Annealing** approach using the libraries and **quantum annealers** provided by [D-Wave Systems](https://www.dwavesys.com/).
+
+
 
